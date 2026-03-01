@@ -1,0 +1,30 @@
+# Kafka and Zookeeper
+/bin/
+/logs/
+*.log
+*.log.*
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Build
+target/
+build/
+*.class
+*.jar
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Dependencies
+node_modules/
+.gradle/
+
+# Environment
+.env
+.env.local
